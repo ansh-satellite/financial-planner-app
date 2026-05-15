@@ -63,7 +63,7 @@ def send_email():
         # Send Email
         resend.Emails.send({
             "from": "onboarding@resend.dev",
-            "to": ["support@inxits.com"],
+            "to": ["ansh.shah.1502@gmail.com"],
             "subject": "New Financial Planning Form Submission",
             "html": """
             <h2>New Financial Planning Form Submitted</h2>
