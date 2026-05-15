@@ -2,3 +2,4 @@ Flask
 flask-mail
 flask-cors
 gunicorn
+resend
